@@ -7,4 +7,4 @@ function hello(b: number) {
 }
 
 hello(39);
-hello("Mark");
+// hello("Mark");

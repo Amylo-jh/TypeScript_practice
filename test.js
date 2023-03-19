@@ -4,4 +4,4 @@ a = 39;
 function hello(b) {
 }
 hello(39);
-hello("Mark");
+// hello("Mark");
